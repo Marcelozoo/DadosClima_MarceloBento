@@ -1,4 +1,4 @@
-package com.pss.dadosclima;
+package main;
 
 import presenter.DadosClimaPresenter;
 

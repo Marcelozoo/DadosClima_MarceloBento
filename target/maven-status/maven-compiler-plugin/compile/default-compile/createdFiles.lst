@@ -1,4 +1,5 @@
 presenter\DadosClimaPresenter$1.class
+main\MainDadosClima.class
 presenter\interfaces\IPainel.class
 presenter\RegistrosObserverPresenter$1.class
 view\DadosTempoView.class
@@ -27,6 +28,5 @@ presenter\PainelAtualizacaoObserverPresenter.class
 view\MaximasEMinimasView.class
 services\MaximasEMinimasService.class
 view\UltimaAtualizacaoDoTempoView.class
-com\pss\dadosclima\MainDadosClima.class
 presenter\MaximasEMinimasObserverPresenter.class
 presenter\DadosMediosObserverPresenter.class
